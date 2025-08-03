@@ -1,0 +1,13 @@
+# macOS / Linux
+.DS_Store
+# Editors
+.vscode/
+.idea/
+# Archives
+*.zip
+# Word temp files
+~$*.docx
+# Compiled
+*.pyc
+# CloudShell history
+.history
